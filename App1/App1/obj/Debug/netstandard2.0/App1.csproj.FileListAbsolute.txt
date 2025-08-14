@@ -1,0 +1,42 @@
+C:\Users\user\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\user\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\user\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\user\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\FifthPageSasso.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\FourthPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\Page8.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\SeventhPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\SixthPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\ThirdPage.xaml.g.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\user\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Hamara App Backup\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\user\Documents\Hamara App Backup\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\user\Documents\Hamara App Backup\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\user\Documents\Hamara App Backup\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\FifthPageSasso.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\FourthPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\Page8.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\SeventhPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\SixthPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\ThirdPage.xaml.g.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\user\Documents\Hamara App Backup\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache

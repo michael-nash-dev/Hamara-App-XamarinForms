@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vPmEl83Gk8SrlRA7Vb3Upg4gufjs6agl+a4v6YyCsrK4624Bad2UE+kvjMyGtj445nOAhOHXo1TOurl3EuFNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell Latitude\\OneDrive\\Documents\\Michael Projects\\Hamara App\\Hamara-App-XamarinForms\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

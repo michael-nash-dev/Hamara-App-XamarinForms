@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.SeventhPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="FarmLine.png">
+                
+            </Image>
+          
+            <Label Text="Start"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+                
+            </Label>
+            <ImageButton Source="SassoHybrids.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80"
+                         Clicked="GoToPage8ButtonClicked">
+
+            </ImageButton>
+
+            <Label Text="Track"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+
+            </Label>
+            <ImageButton Source="Broilers.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80">
+
+
+            </ImageButton>
+            <Label Text="Support"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+
+            </Label>
+            <ImageButton Source="SassoHybrids.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80">
+
+
+            </ImageButton>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

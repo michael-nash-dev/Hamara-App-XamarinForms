@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             x:Class="App1.SecondPage">
+    
+        <ContentPage.Content>
+        
+        <StackLayout>
+            <Label Text="Shop"
+                   HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large"></Label>
+            
+            <ImageButton Source="Shop.png"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         Grid.Column="1"
+                         Grid.Row="3"
+                         WidthRequest="80">
+                 </ImageButton>
+
+            <Label Text="Business"
+                   HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+                
+            </Label>
+            
+                <ImageButton Source="Business.png"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center"
+                     BackgroundColor="DarkGreen"
+                     Grid.Column="1"  
+                     Grid.Row="3"
+                             WidthRequest="80"
+                    Clicked="GoToThirdPageButtonClicked" ></ImageButton>
+            
+
+         </StackLayout>
+
+    </ContentPage.Content>
+    
+   
+</ContentPage>

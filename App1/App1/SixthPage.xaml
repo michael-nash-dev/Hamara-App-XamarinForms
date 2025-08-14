@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.SixthPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="Sassoc431Line.png">
+                
+            </Image>
+            <Label Text="Training"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+                
+            </Label>
+            <ImageButton Source="SassoHybrids.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80">
+                
+             </ImageButton>
+
+            <Label Text="Supplies"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+
+            </Label>
+            <ImageButton Source="Broilers.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80">
+
+
+            </ImageButton>
+            <Label Text="My Farm"
+                    HorizontalOptions="Center"
+                   VerticalTextAlignment="Center"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Large">
+
+            </Label>
+            <ImageButton Source="SassoHybrids.png"
+                          HorizontalOptions="Center"
+                         VerticalOptions="Center"
+                         BackgroundColor="DarkGreen"
+                         WidthRequest="80"
+                         Clicked="GoToSeventhPageButtonClicked">
+
+
+            </ImageButton>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

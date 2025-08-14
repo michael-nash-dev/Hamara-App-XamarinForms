@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFUFPLbTGL8ElLxyptPBKlQqCR92zeswX4ecwx2fLklhV0MWpyTWxamyFOjQykrCJcZDknJ2bMDhfLu30Ac1Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell Latitude\\OneDrive\\Documents\\Michael Projects\\Hamara App\\Hamara-App-XamarinForms\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
